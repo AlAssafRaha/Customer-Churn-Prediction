@@ -5,7 +5,11 @@ This repository contains a machine learning project aimed at predicting customer
 #### Components of the Repository:
 
 Data: Original dataset and preprocessed data files.
+
 Notebooks: Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning using Bayesian optimization, and model evaluation.
+
 Scripts: Python scripts for more modular or production-ready code.
+
 Model Card and Datasheet: Documentation providing details on model performance, usage, and dataset characteristics.
+
 Results: Visualizations and output files showcasing the analysis and outcomes of the models.
