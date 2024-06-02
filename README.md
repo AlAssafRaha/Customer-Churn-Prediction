@@ -37,7 +37,7 @@ Model cards for each algorithm are included in this repository to provide insigh
 
 - [Random Forest Model Card](docs/Random_Forest_Model_Card.md) 
 - [Logistic Regression Model Card](docs/Logistic_Regression_Model_Card.md)
-- [Neural Network Model Card](Neural_Network_Model_Card.md)
+- [Neural Network Model Card](docs/Neural_Network_Model_Card.md)
 
 ### Setup and Usage
 Instructions on how to set up and run these models are provided for each model within their respective directories.
