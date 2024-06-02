@@ -10,17 +10,20 @@
 ## Model Description
 This Logistic Regression model is developed to predict customer churn in a telecommunications setting. It aims to identify customers at risk of leaving, enabling targeted interventions to improve customer retention.
 
-Intended Use
-Primary Use: To predict which customers are likely to churn from a telecom provider's services.
-Users: Intended for use by customer relationship managers and data science teams within telecommunications companies.
-Training Data
-Source: The model was trained using the Telco Customer Churn dataset available on Kaggle.
-Type: Includes customer demographics, account information, service usage, and churn labels.
-Preprocessing: Data preprocessing included encoding categorical variables, normalizing numerical inputs, and handling missing values.
-Evaluation Data
-Source: Derived from the same dataset, typically using a random train-test split.
-Preprocessing: Similar preprocessing as training data to ensure consistency.
-Metrics
+## Intended Use
+- **Primary Use**: To predict which customers are likely to churn from a telecom provider's services.
+- **Users**: Intended for use by customer relationship managers and data science teams within telecommunications companies.
+
+## Training Data
+- **Source**: The model was trained using the Telco Customer Churn dataset available on Kaggle.
+- **Type**: Includes customer demographics, account information, service usage, and churn labels.
+- **Preprocessing**: Data preprocessing included encoding categorical variables, normalizing numerical inputs, and handling missing values.
+
+## Evaluation Data
+- **Source**: Derived from the same dataset, typically using a random train-test split.
+-m **Preprocessing**: Similar preprocessing as training data to ensure consistency.
+
+## Metrics
 Accuracy: X.XX%
 Precision: X.XX%
 Recall: X.XX%
