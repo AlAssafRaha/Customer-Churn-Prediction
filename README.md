@@ -2,6 +2,15 @@
 
 This repository contains machine learning models developed for predicting customer churn in a telecommunications company. The goal of these models is to identify customers likely to churn so that proactive strategies can be employed to retain them. Using the Telco Customer Churn dataset, the project explores various machine learning techniques, with a special focus on Bayesian optimization for hyperparameter tuning. This project includes detailed Jupyter notebooks for each step of the process—from data preprocessing and exploratory data analysis to model training and evaluation. The goal is to develop a predictive model that can help businesses understand and mitigate customer churn, ultimately enhancing customer retention strategies. Whether you're a data science student, a professional looking to understand churn prediction, or someone interested in machine learning applications, this repository provides a comprehensive guide and all necessary tools for replication and further exploration.
 
+### Setup and Installation
+To set up your environment to run these models, please follow the instructions below:
+1. Ensure that you have Python installed on your machine.
+2. Clone this repository to your local machine.
+3. Install the required libraries using the following command in your terminal:
+   ```bash
+   pip install -r requirements.txt
+4. You are now ready to run the notebooks and scripts provided in this repository.
+
 ### Components of the Repository:
 
 [Data](data/): Original dataset and preprocessed data files.
