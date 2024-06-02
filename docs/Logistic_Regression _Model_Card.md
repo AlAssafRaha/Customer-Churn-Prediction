@@ -21,7 +21,7 @@ This Logistic Regression model is developed to predict customer churn in a telec
 
 ## Evaluation Data
 - **Source**: Derived from the same dataset, typically using a random train-test split.
--m **Preprocessing**: Similar preprocessing as training data to ensure consistency.
+- **Preprocessing**: Similar preprocessing as training data to ensure consistency.
 
 ## Metrics
 Accuracy: 82%
