@@ -18,7 +18,7 @@
 - **How was the data collected?**
   - Data was compiled from the company's CRM systems covering all active and inactive customer accounts over a specified period.
 - **Who was involved in the data collection process?**
-  - [Insert information about the team or department responsible]
+  - Not disclosed
 
 ## Preprocessing/cleaning/labeling
 - **Was any preprocessing/cleaning/labeling of the data done?**
@@ -32,7 +32,7 @@
 
 ## Distribution
 - **How is the dataset distributed?**
-  - The dataset is available for download on [Insert platform, e.g., Kaggle, GitHub].
+  - The dataset is available for download on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 - **Is there a fee for using the dataset?**
   - No, it is freely available for academic and commercial use.
 
