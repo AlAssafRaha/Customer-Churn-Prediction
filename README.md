@@ -20,6 +20,7 @@ The dataset used in this project is the Telco Customer Churn dataset. It can be 
 [Datasheet for Telco Customer Churn Dataset](docs/Datasheet_for_TelcoCustomerChurnDataset.md): This datasheet provides detailed information about the motivations, composition, collection process, and pre-processing steps involved with the Telco Customer Churn dataset. It is essential for understanding the scope, limitations, and appropriate uses of the data.
 
 ### Models
+The models used include Random Forest, Logistic Regression, and Neural Networks. Random Forest was chosen for its robustness against overfitting, Logistic Regression for its efficacy in binary outcomes, and Neural Networks for their ability to model complex relationships in high-dimensional data.
 
 #### Random Forest
 - **Description**: Utilizes ensemble learning technique for classification. Random Forest is robust against overfitting as it uses multiple decision trees to make predictions.
@@ -32,6 +33,14 @@ The dataset used in this project is the Telco Customer Churn dataset. It can be 
 #### Neural Network
 - **Description**: Employs a deep learning architecture to model complex relationships in data. The model used here is a fully connected deep neural network, structured to capture intricate patterns in customer behavior.
 - **Performance**: Evaluation results can be found in the Neural Network model card.
+
+### Hyperparameter Optimization
+Hyperparameters were optimized using Bayesian Optimization. This method was selected for its efficiency in finding the best hyperparameters by building a probability model of the objective function and using it to select the most promising hyperparameters to evaluate in the true objective function.
+
+### Results
+The models achieved varying levels of accuracy, with Random Forest performing the best. The results help in understanding which features most significantly predict churn, such as tenure and monthly charges. These insights assist in developing targeted interventions to reduce customer churn.
+
+![Model Accuracy Plot](model_accuracy.png)
 
 ### Model Cards
 
