@@ -35,7 +35,7 @@ The dataset used in this project is the Telco Customer Churn dataset. It can be 
 
 Model cards for each algorithm are included in this repository to provide insights into model performance, usage, and limitations.
 
-- [Random Forest Model Card]
+- [Random Forest Model Card][Random Forest Model Card.md]
 - [Logistic Regression Model Card](Logistic_Regression_Model_Card.md)
 - [Neural Network Model Card](Neural_Network_Model_Card.md)
 
