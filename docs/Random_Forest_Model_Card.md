@@ -2,7 +2,7 @@
 
 ## Model Details
 - **Developer**: Raha AlAssaf
-- **Model date**: 2/06/2024
+- **Model date**: June 2,2024
 - **Model version**: 1.0
 - **Model Type**: Random Forest
 - **Model Framework**:
@@ -31,11 +31,11 @@ This Random Forest model predicts customer churn for a telecommunications compan
 - **Preprocessing**: Similar preprocessing steps as training data.
 
 ## Metrics
-- **Accuracy**: 0.80
-- **Precision**: 0.67
-- **Recall**: 0.50
-- **F1-Score**: 0.57
-- **ROC Curve and AUC**:
+- **Accuracy**: 80%
+- **Precision**: 67%
+- **Recall**: 50%
+- **F1-Score**: 57%
+- **ROC Curve and AUC**: 70%
 
 ## Results and Visualizations
 This model's performance has been thoroughly evaluated using several statistical metrics and visual representations to ensure transparency and effectiveness. Key visualizations include:
