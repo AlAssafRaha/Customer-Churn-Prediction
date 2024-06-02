@@ -45,12 +45,14 @@ This model's performance has been thoroughly evaluated using several statistical
 
 These visualizations are available in the `results/` directory and are integral for interpreting the model's operational performance and its potential impact on business decisions.
 
-## Metrics
+### Performance Metrics
 - **Accuracy**: 80%
 - **Precision**: 67%
 - **Recall**: 50%
 - **F1-Score**: 57%
 - **ROC Curve and AUC**: 70%
+
+![Performance Graph](../images/RF_performance_graph.png)
 
 ## Further Documentation
 Additional detailed analyses and visual outputs are documented in the step-by-step Jupyter notebooks located in the `notebooks/` section of this repository. These notebooks provide a granular view of the data preprocessing steps, model training, evaluation processes, and key decision metrics.
