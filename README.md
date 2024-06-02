@@ -38,7 +38,7 @@ The models used include Random Forest, Logistic Regression, and Neural Networks.
 Hyperparameters were optimized using Bayesian Optimization. This method was selected for its efficiency in finding the best hyperparameters by building a probability model of the objective function and using it to select the most promising hyperparameters to evaluate in the true objective function.
 
 ### Results
-The models achieved varying levels of accuracy, with Random Forest performing the best. The results help in understanding which features most significantly predict churn, such as tenure and monthly charges. These insights assist in developing targeted interventions to reduce customer churn.
+The models achieved varying levels of accuracy, with Logistic Regression performing the best. The results help in understanding which features most significantly predict churn, such as tenure and monthly charges. These insights assist in developing targeted interventions to reduce customer churn.
 
 ![Model Accuracy Plot](model_accuracy.png)
 
