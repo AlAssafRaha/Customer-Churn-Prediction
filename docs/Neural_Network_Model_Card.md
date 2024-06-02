@@ -24,11 +24,11 @@ This Neural Network model has been developed to predict customer churn in the te
 - **Preprocessing**: The evaluation data underwent the same preprocessing steps as the training data to ensure consistency in model evaluation.
 
 ## Metrics
-- **Accuracy**: X.XX%
-- **Precision**: X.XX%
-- **Recall**: X.XX%
-- **F1-Score**: X.XX%
-- **AUC-ROC**: X.XX%
+- **Accuracy**: 79%
+- **Precision**: 61%
+- **Recall**: 56%
+- **F1-Score**: 58%
+- **AUC-ROC**: 83%
 
 ## Ethical Considerations
 - **Potential Bias**: Efforts were made to identify and mitigate any bias in the training data. The model's performance was evaluated to ensure fairness across various customer segments.
