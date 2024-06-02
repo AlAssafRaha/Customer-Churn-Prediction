@@ -35,6 +35,7 @@ This Random Forest model predicts customer churn for a telecommunications compan
 - **Precision**: 0.67
 - **Recall**: 0.50
 - **F1-Score**: 0.57
+- **ROC Curve and AUC**:
 
 ## Results and Visualizations
 This model's performance has been thoroughly evaluated using several statistical metrics and visual representations to ensure transparency and effectiveness. Key visualizations include:
