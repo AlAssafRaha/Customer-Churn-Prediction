@@ -40,7 +40,7 @@ Hyperparameters were optimized using Bayesian Optimization. This method was sele
 ### Results
 The models achieved varying levels of accuracy, with Logistic Regression performing the best. The results help in understanding which features most significantly predict churn, such as tenure and monthly charges. These insights assist in developing targeted interventions to reduce customer churn.
 
-![Model Accuracy Plot](results/model_accuracy.png)
+![Model Accuracy Plot](images/model_accuracy.png)
 
 ### Model Cards
 
