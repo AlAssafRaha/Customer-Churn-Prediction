@@ -12,7 +12,7 @@ Scripts: Python scripts for more modular or production-ready code.
 
 [Model Card and Datasheet](docs/): Documentation providing details on model performance, usage, and dataset characteristics.
 
-Results: Visualizations and output files showcasing the analysis and outcomes of the models.
+[Results](results/): Visualizations and output files showcasing the analysis and outcomes of the models.
 
 ### Data
 The dataset used in this project is the Telco Customer Churn dataset. It can be found in the [data](data) directory. This dataset includes customer data from a telecom company, where the main goal is to predict customer churn based on various features like monthly charges, tenure, and service type.
