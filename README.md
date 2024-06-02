@@ -4,7 +4,7 @@ This repository contains machine learning models developed for predicting custom
 
 ### Components of the Repository:
 
-Data: Original dataset and preprocessed data files.
+[Data](data/): Original dataset and preprocessed data files.
 
 Notebooks: Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning using Bayesian optimization, and model evaluation.
 
