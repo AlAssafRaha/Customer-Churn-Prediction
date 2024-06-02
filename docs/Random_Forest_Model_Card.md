@@ -15,7 +15,7 @@
     - joblib: Used for model serialization and loading.
 
 ## Model Description
-**Description**: This Random Forest model predicts customer churn for a telecommunications company. It is designed to help identify customers at high risk of churn, allowing targeted interventions.
+This Random Forest model predicts customer churn for a telecommunications company. It is designed to help identify customers at high risk of churn, allowing targeted interventions.
 
 ## Intended Use
 - **Primary use**: Predicting customer churn for a telecommunications company.
