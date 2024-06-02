@@ -6,9 +6,9 @@ This repository contains machine learning models developed for predicting custom
 
 [Data](data/): Original dataset and preprocessed data files.
 
-Notebooks: Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning using Bayesian optimization, and model evaluation.
+[Notebooks](notebooks/): Step-by-step Jupyter notebooks covering data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning using Bayesian optimization, and model evaluation.
 
-Scripts: Python scripts for more modular or production-ready code.
+[Scripts](scripts/): Python scripts for more modular or production-ready code.
 
 [Model Card and Datasheet](docs/): Documentation providing details on model performance, usage, and dataset characteristics.
 
