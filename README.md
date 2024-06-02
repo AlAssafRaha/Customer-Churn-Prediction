@@ -50,12 +50,6 @@ Model cards for each algorithm are included in this repository to provide insigh
 - [Logistic Regression Model Card](docs/Logistic_Regression_Model_Card.md)
 - [Neural Network Model Card](docs/Neural_Network_Model_Card.md)
 
-### Setup and Usage
-Instructions on how to set up and run these models are provided for each model within their respective directories.
-
-### Contributing
-Contributions to improve the models or approaches are welcome. Please refer to the contribution guidelines for more details on how to contribute.
-
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
