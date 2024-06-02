@@ -10,7 +10,7 @@ Notebooks: Step-by-step Jupyter notebooks covering data preprocessing, explorato
 
 Scripts: Python scripts for more modular or production-ready code.
 
-Model Card and Datasheet: Documentation providing details on model performance, usage, and dataset characteristics.
+[Model Card and Datasheet]((docs/): Documentation providing details on model performance, usage, and dataset characteristics.
 
 Results: Visualizations and output files showcasing the analysis and outcomes of the models.
 
