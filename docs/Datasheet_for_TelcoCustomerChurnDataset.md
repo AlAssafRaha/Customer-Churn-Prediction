@@ -4,7 +4,7 @@
 - **Why was the dataset created?**
   - To aid in predicting customer churn within telecom services, allowing companies to implement targeted retention strategies.
 - **Who funded the creation of the dataset?**
-  - [Insert funding source here if known, or 'Not disclosed' if unknown]
+  - Not disclosed
 
 ## Composition
 - **What do the instances represent?**
