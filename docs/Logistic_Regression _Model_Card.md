@@ -1,11 +1,11 @@
 # Logistic Regression Model Card
 
 ## Model Details
--**Developer**: Raha AlAssaf
--**Model Date**: June 2, 2024
--**Model Version**: 1.0
--**Model Type**: Logistic Regression
--**Model Framework**: scikit-learn
+- **Developer**: Raha AlAssaf
+- **Model Date**: June 2, 2024
+- **Model Version**: 1.0
+- **Model Type**: Logistic Regression
+- **Model Framework**: scikit-learn
 
 ## Model Description
 This Logistic Regression model is developed to predict customer churn in a telecommunications setting. It aims to identify customers at risk of leaving, enabling targeted interventions to improve customer retention.
