@@ -1,4 +1,5 @@
-Neural Network Model Card
+# Neural Network Model Card
+
 Model Details
 Developer: Raha AlAssaf
 Model Date: June 2, 2024
