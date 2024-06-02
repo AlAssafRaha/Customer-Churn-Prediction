@@ -6,13 +6,13 @@
 - **Model version**: 1.0
 - **Model Type**: Random Forest
 - **Model Framework**:
-  Primary Library: scikit-learn (Random Forest implementation)
-  Supporting Libraries:
-  pandas: Used for data handling and manipulation.
-  matplotlib and seaborn: Utilized for data visualization and graphical representations.
-  NumPy: Employed for numerical operations.
-  scikit-optimize (skopt): Applied for hyperparameter tuning using Bayesian Optimization.
-  joblib: Used for model serialization and loading.
+  - Primary Library: scikit-learn (Random Forest implementation)
+  - Supporting Libraries:
+    - pandas: Used for data handling and manipulation.
+    - matplotlib and seaborn: Utilized for data visualization and graphical representations.
+    - NumPy: Employed for numerical operations.
+    - scikit-optimize (skopt): Applied for hyperparameter tuning using Bayesian Optimization.
+    - joblib: Used for model serialization and loading.
 
 ## Model Description
 -**Description**: This Random Forest model predicts customer churn for a telecommunications company. It is designed to help identify customers at high risk of churn, allowing targeted interventions.
