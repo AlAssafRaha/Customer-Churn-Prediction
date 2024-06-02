@@ -46,7 +46,7 @@ The performance of the Neural Network model is evaluated based on accuracy, prec
 - **F1-Score**: 58%
 - **AUC-ROC**: 83%
 
-![Performance Graph](images/NN_performance_graph.png)
+![Model Accuracy Plot](images/model_accuracy.png)
 
 ## Limitations
 - The model's performance may degrade if applied to customer data significantly different in distribution from the training dataset.
