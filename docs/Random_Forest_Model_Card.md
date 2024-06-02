@@ -17,6 +17,12 @@
 ## Model Description
 This Random Forest model predicts customer churn for a telecommunications company. It is designed to help identify customers at high risk of churn, allowing targeted interventions.
 
+**Input**: Customer demographics, account information, service usage details, and billing information.  
+**Output**: Churn prediction (Yes/No)
+
+**Model Architecture**: This Random Forest model is designed to classify customers as likely to churn or not based on their profile and interaction data. It uses an ensemble of decision trees to improve prediction accuracy and control over-fitting.
+
+
 ## Intended Use
 - **Primary use**: Predicting customer churn for a telecommunications company.
 - **Users**: Intended for use by data science teams within telecom companies.
@@ -30,14 +36,7 @@ This Random Forest model predicts customer churn for a telecommunications compan
 - **Source**: The same dataset was split into training and testing sets, with an 80/20 split.
 - **Preprocessing**: Similar preprocessing steps as training data.
 
-## Metrics
-- **Accuracy**: 80%
-- **Precision**: 67%
-- **Recall**: 50%
-- **F1-Score**: 57%
-- **ROC Curve and AUC**: 70%
-
-## Results and Visualizations
+## Performance
 This model's performance has been thoroughly evaluated using several statistical metrics and visual representations to ensure transparency and effectiveness. Key visualizations include:
 - **Confusion Matrix**: Helps in understanding the model's performance in classifying the churn and non-churn customers.
 - **ROC Curve and AUC**: Provides insights into the trade-off between the true positive rate and false positive rate, helping to assess the model's discriminative capabilities.
@@ -45,6 +44,13 @@ This model's performance has been thoroughly evaluated using several statistical
 - **Feature Importance Chart**: Illustrates which features most significantly influence predictions, offering insights into the underlying decision-making process of the model.
 
 These visualizations are available in the `results/` directory and are integral for interpreting the model's operational performance and its potential impact on business decisions.
+
+## Metrics
+- **Accuracy**: 80%
+- **Precision**: 67%
+- **Recall**: 50%
+- **F1-Score**: 57%
+- **ROC Curve and AUC**: 70%
 
 ## Further Documentation
 Additional detailed analyses and visual outputs are documented in the step-by-step Jupyter notebooks located in the `notebooks/` section of this repository. These notebooks provide a granular view of the data preprocessing steps, model training, evaluation processes, and key decision metrics.
