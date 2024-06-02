@@ -1,37 +1,49 @@
 # Datasheet for Telco Customer Churn Dataset
 
 ## Motivation
-- **Why was the dataset created?**
-  - To aid in predicting customer churn within telecom services, allowing companies to implement targeted retention strategies.
-- **Who funded the creation of the dataset?**
-  - Not disclosed
+- **For what purpose was the dataset created?**
+  - To analyze customer churn rates at a telecom company, understand key factors leading to customer attrition, and help develop strategies to retain customers.
+- **Who created the dataset and on behalf of which entity?**
+  - The dataset is typically created by the analytics team of the telecom company and is available on Kaggle for educational and research purposes.
 
 ## Composition
-- **What do the instances represent?**
-  - Each instance represents a customer profile including demographic details, service usage, and churn status.
-- **How many instances are there in total?**
-  - 7043 instances
-- **What features does the dataset include?**
-  - Features include customer demographics, account information, service details, and churn status.
+- **What do the instances that comprise the dataset represent?**
+  - Each instance represents an individual customer, detailing their personal information, service details, and whether they have churned.
+- **How many instances are there?**
+  - Approximately 7,043 customer records.
+- **Is there any missing data?**
+  - Yes, some fields like Total Charges have missing data, particularly where tenure is zero.
+- **Does the dataset contain confidential data?**
+  - The dataset is anonymized, with no direct personal identifiers, but includes sensitive information related to customer demographics and services.
 
 ## Collection Process
-- **How was the data collected?**
-  - Data was compiled from the company's CRM systems covering all active and inactive customer accounts over a specified period.
-- **Who was involved in the data collection process?**
-  - Not disclosed
+- **How was the data acquired?**
+  - The data was collected from the company's operational databases, reflecting customers' interactions and subscription details.
+- **What was the sampling strategy?**
+  - The data appears to represent a comprehensive dataset of a particular period, not a sample.
+- **Over what time frame was the data collected?**
+  - The specific time frame isn't mentioned but likely covers several years up to 2020.
 
 ## Preprocessing/cleaning/labeling
 - **Was any preprocessing/cleaning/labeling of the data done?**
-  - Yes, preprocessing steps included encoding categorical variables, handling missing values, and normalizing data.
+  - For public use, preprocessing included converting data types and handling missing values, particularly in the 'Total Charges' field.
+- **Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data?**
+  - It is unclear if the raw data is saved; only preprocessed data is available on Kaggle.
 
-## Intended Uses
-- **What tasks is the dataset created for?**
-  - This dataset is intended for use in developing predictive models to identify customers at high risk of churn.
-- **Who are the intended users of the dataset?**
-  - Data scientists and analysts focusing on customer retention strategies.
+## Uses
+- **What other tasks could the dataset be used for?**
+  - Beyond churn prediction, the dataset can be used for customer segmentation, revenue prediction, and optimizing marketing strategies.
+- **What might impact future uses?**
+  - Users must consider the demographic distribution and service usage patterns may not generalize to other regions or newer time periods. Care should be taken to avoid reinforcing stereotypes or biases in customer treatment.
+- **Are there tasks for which the dataset should not be used?**
+  - This dataset should not be used for individual customer identification or decisions without further privacy safeguards.
 
 ## Distribution
-- **How is the dataset distributed?**
-  - The dataset is available for download on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-- **Is there a fee for using the dataset?**
-  - No, it is freely available for academic and commercial use.
+- **How has the dataset been distributed?**
+  - Distributed via Kaggle for educational and research purposes.
+- **Is it subject to any IP license or ToU?**
+  - The dataset is available under Kaggle’s terms of use, primarily for non-commercial use.
+
+## Maintenance
+- **Who maintains the dataset?**
+  - The dataset is maintained by the hosting platform, Kaggle, with no active updates or corrections specified.
