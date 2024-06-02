@@ -31,8 +31,8 @@ This Neural Network model has been developed to predict customer churn in the te
 - **AUC-ROC**: X.XX%
 
 ## Ethical Considerations
-- Potential Bias: Acknowledge any potential biases identified in the training data and the steps taken to mitigate them. Discuss how the model performs across different customer groups.
-- Mitigation Strategies: Outline any resampling techniques, feature selection processes, or model adjustments used to ensure fairness and reduce bias.
+- **Potential Bias**: Efforts were made to identify and mitigate any bias in the training data. The model's performance was evaluated to ensure fairness across various customer segments.
+- **Mitigation Strategies**: Techniques such as adjusting class weights and resampling were explored to address imbalance and potential bias.
 
 ## Caveats and Recommendations
 - Model Limitations: While neural networks can model complex relationships, they require large amounts of data and can overfit if not properly regularized or if trained on unrepresentative data sets.
