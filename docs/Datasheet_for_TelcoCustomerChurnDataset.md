@@ -10,7 +10,7 @@
 - **What do the instances represent?**
   - Each instance represents a customer profile including demographic details, service usage, and churn status.
 - **How many instances are there in total?**
-  - [Insert number of instances]
+  - 7043 instances
 - **What features does the dataset include?**
   - Features include customer demographics, account information, service details, and churn status.
 
