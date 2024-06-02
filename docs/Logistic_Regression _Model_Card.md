@@ -24,11 +24,11 @@ This Logistic Regression model is developed to predict customer churn in a telec
 - **Preprocessing**: Similar preprocessing as training data to ensure consistency.
 
 ## Metrics
-Accuracy: 82%
-Precision: 69%
-Recall: 58%
-F1-Score: 63%
-AUC-ROC: 74%
+- **Accuracy**: 82%
+- **Precision**: 69%
+- **Recall**: 58%
+- **F1-Score**: 63%
+- **AUC-ROC**: 74%
 
 ## Ethical Considerations
 - **Potential Bias**: Efforts were made to identify and mitigate any bias in the training data. The model's performance was evaluated to ensure fairness across various customer segments.
