@@ -20,7 +20,7 @@ This Logistic Regression model is developed to predict customer churn in a telec
 - **Preprocessing**: Data preprocessing included encoding categorical variables, normalizing numerical inputs, and handling missing values.
 
 ## Evaluation Data
-- **Source**: Derived from the same dataset, typically using a random train-test split.
+- **Source**: The same dataset was split into training and testing sets, with an 80/20 split.
 - **Preprocessing**: Similar preprocessing as training data to ensure consistency.
 
 ## Metrics
